@@ -34,4 +34,4 @@ async def informacion(ctx):
     await ctx.send(embed=embed)
 
 # Ejecutar el bot con el token del bot que obtuviste desde el sitio web de desarrolladores de Discord
-bot.run
+bot.run("MTEzNDk3MjAyNzQ4OTQ5Mjk5Mg.GEiSF9.OLp3Hrizi5zhre3YgM2ma3Qv6Afm7w2y_T6gc8")
